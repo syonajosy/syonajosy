@@ -17,6 +17,21 @@
 - 📫 How to reach me  **syona.j@outlook.com**
 
 
+## Featured Projects
+
+### [SQL Data Warehouse Project](https://github.com/akashhsapkal1/SQL-Data-Warehouse-Project)
+- Designed ETL pipelines and built a SQL-based data warehouse for large-scale reporting.
+- Optimized complex queries and enabled KPI dashboards.
+
+### [InboxAI – Retrieval-Augmented Generation (RAG) Pipeline for Email Analytics](https://github.com/syonajosy/Mail-Inbox-AI)
+- Built a cloud-based pipeline for email ingestion, processing, and vector search with real-time analytics.
+- Deployed on GCP with PostgreSQL, Docker, and MLflow for scalable KPI tracking and insights.
+
+### [Policy Recommendation System – Agricultural Demand & Supply Forecasting](https://github.com/syonajosy/Policy_Recommendation)
+- Built an LSTM and decision tree–based forecasting system to predict agricultural demand/supply trends and generate data-driven policy recommendations.
+- Deployed a LangChain-powered pipeline enabling real-time insights for policymakers, supply chains, and financial institutions.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/syonajaimy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syonajaimy" height="30" width="40" /></a>
