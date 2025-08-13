@@ -1,16 +1,16 @@
 ![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1)
 
-<h1 align="center">Hi There, I'm Syona! 👋</h1>
-<h3 align="center">Enthusiastic Visual Storyteller| Data doesn't lie, but it needs a translator. That's where I come in!</h3>
+<h1 align="center">**Hi There, I'm Syona!** 👋</h1>
+<h3 align="center">Data doesn't lie, but it needs a translator. That's where I come in!</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syonajosy&label=Profile%20views&color=0e75b6&style=flat" alt="syonajosy" /> </p>
 
-- 🌱 I’m currently planning to take my AWS data engineer Associate certificate and learning the fundamentals on how to use Snowflake**.
-- 👨🏽‍🎓 Graduate student with a Master's degree in Data Science.
-- 🚀 Expanding Proficiency: Python-Powered ETL, Data Cleaning, and Cloud Technologies 📊
+- 🌱 I’m currently planning to take my **AWS Data Engineer Associate certificate**  and building expertise in **Snowflake** for scalable data solutions.
+- 👨🏽‍🎓 Graduate student with a Master's degree in **Data Science**, combining analytical problem-solving with applied machine learning.
+- 🚀 Expanding Proficiency: Python-powered ETL workflows, advanced data cleaning, statistical modeling, and cloud-based analytics 📊
 - 💬 Unlock Insights with Me: Python, SQL, AWS cloud systems, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
 - 👨‍💻 Portfolio link: [https://public.tableau.com/app/profile/syona.jaimy/vizzes](https://public.tableau.com/app/profile/syona.jaimy/vizzes)
 - 📫 How to reach me  **syona.j@outlook.com**
