@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syonajosy&label=Profile%20views&color=0e75b6&style=flat" alt="syonajosy" /> </p>
 
-- 🌱 I’m currently planning to take my **AWS Data Engineer Associate certificate**  and building expertise in **Snowflake** for scalable data solutions.
+- 🌱  Currently preparing for the **AWS Data Engineer Associate certificate**  and building expertise in **Snowflake** for scalable data solutions.
 - 👨🏽‍🎓 Graduate student with a Master's degree in **Data Science**, combining analytical problem-solving with applied machine learning.
 - 🚀 Expanding Proficiency: Python-powered ETL workflows, advanced data cleaning, statistical modeling, and cloud-based analytics 📊
 - 💬 Unlock Insights with Me: Python, SQL, AWS cloud systems, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
