@@ -1,7 +1,7 @@
 ![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1)
 
-<h1 align="center">**Hi There, I'm Syona!** 👋</h1>
-<h3 align="center">Data doesn't lie, but it needs a translator. That's where I come in!</h3>
+<h1 align="center">Hi There, I'm Syona! 👋</h1>
+<h3 align="center">Data doesn't lie, but it needs a translator. That's where I come in! :)</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
