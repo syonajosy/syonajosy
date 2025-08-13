@@ -12,7 +12,8 @@
 - 👨🏽‍🎓 Graduate student with a Master's degree in **Data Science**, combining analytical problem-solving with applied machine learning.
 - 🚀 Expanding Proficiency: Python-powered ETL workflows, advanced data cleaning, statistical modeling, and cloud-based analytics 📊
 - 💬 Unlock Insights with Me: Python, SQL, AWS cloud systems, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
-- 👨‍💻 Portfolio link: [https://public.tableau.com/app/profile/syona.jaimy/vizzes](https://public.tableau.com/app/profile/syona.jaimy/vizzes)
+- 👨‍💻 Portfolio link: [https://syonajosy.github.io/syona-portfolio/](https://syonajosy.github.io/syona-portfolio/)
+- 👨‍💻 Tableau Portfolio link: [https://public.tableau.com/app/profile/syona.jaimy/vizzes](https://public.tableau.com/app/profile/syona.jaimy/vizzes)
 - 📫 How to reach me  **syona.j@outlook.com**
 
 
