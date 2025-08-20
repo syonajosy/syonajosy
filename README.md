@@ -19,10 +19,6 @@
 
 ## Featured Projects
 
-### [SQL Data Warehouse Project](https://github.com/akashhsapkal1/SQL-Data-Warehouse-Project)
-- Designed ETL pipelines and built a SQL-based data warehouse for large-scale reporting.
-- Optimized complex queries and enabled KPI dashboards.
-
 ### [InboxAI – Retrieval-Augmented Generation (RAG) Pipeline for Email Analytics](https://github.com/syonajosy/Mail-Inbox-AI)
 - Built a cloud-based pipeline for email ingestion, processing, and vector search with real-time analytics.
 - Deployed on GCP with PostgreSQL, Docker, and MLflow for scalable KPI tracking and insights.
