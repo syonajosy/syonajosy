@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syonajosy&label=Profile%20views&color=0e75b6&style=flat" alt="syonajosy" /> </p>
 
-- 🌱 I’m currently learning **DataBricks and Snowflake**.
-- 👨🏽‍🎓 Graduate student with a Master's degree in Information Systems.
+- 🌱 Data Engineer with a strong foundation in Analytics & Data Science
+- 🛠 **Data Engineering Stack:** PySpark, Apache Spark, Databricks, Airflow, dbt, Spark Structured Streaming, Hadoop ecosystem concepts  
 - 🚀 Expanding Proficiency: Python-Powered ETL, Data Cleaning, and Analysis 📊
 - 💬 Unlock Insights with Me: Advanced Excel, Python, SQL, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
 - 👨‍💻 Portfolio link: [https://public.tableau.com/app/profile/simran.nagpurkar/vizzes](https://public.tableau.com/app/profile/simran.nagpurkar/vizzes)
