@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syonajosy&label=Profile%20views&color=0e75b6&style=flat" alt="syonajosy" /> </p>
 
 - 🌱 Data Engineer with a strong foundation in Analytics & Data Science
-- 🛠 **Data Engineering Stack:** PySpark, Apache Spark, Databricks, Airflow, dbt, Spark Structured Streaming, Hadoop ecosystem concepts  
+- 🛠 **Data Engineering Stack:** PySpark, Apache Spark, Databricks, Airflow, dbt, Spark Structured Streaming, Hadoop ecosystem concepts.  
 - 🌱 Currently preparing for the **AWS Data Engineer Associate certificate** and building production expertise in **Snowflake** for scalable data platforms.  
-- 👨🏽‍🎓 Graduate student with a Master’s degree in **Data Science**, combining analytical problem-solving with applied machine learning.
+- 👨🏽‍🎓 Master’s in Data Science with a strong emphasis on data engineering systems, optimization, and applied machine learning.
 - 🚀 **Expanding Proficiency:** Python-powered ETL workflows, Databricks, feature engineering, Kafka, and cloud-based analytics.
 - 📊 **Analytics & BI Stack:** Python, SQL, AWS cloud systems, Alteryx, EDA, and storytelling through visualizations (**Tableau, Power BI, Amazon QuickSight**).      
 
