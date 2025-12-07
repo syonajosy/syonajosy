@@ -7,12 +7,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syonajosy&label=Profile%20views&color=0e75b6&style=flat" alt="syonajosy" /> </p>
-- **Data Engineer with a strong foundation in Analytics & Data Science**
-- 🛠 **Data Engineering Stack:** PySpark, Apache Spark, Databricks, Airflow, dbt, Spark Structured Streaming, Hadoop ecosystem concepts  
--🌱 Currently preparing for the **AWS Data Engineer Associate certificate** and building production expertise in **Snowflake** for scalable data platforms.  
--👨🏽‍🎓 Graduate student with a Master’s degree in **Data Science**, combining analytical problem-solving with applied machine learning.  
-- 🚀 **Expanding Proficiency:** Python-powered ETL workflows, advanced data cleaning, feature engineering, statistical modeling, and cloud-based analytics.  
-- 📊 **Analytics & BI Stack:** Python, SQL, AWS cloud systems, Alteryx, EDA, and storytelling through visualizations (**Tableau, Power BI, Amazon QuickSight**).  
+
+- 🌱 I’m currently learning **DataBricks and Snowflake**.
+- 👨🏽‍🎓 Graduate student with a Master's degree in Information Systems.
+- 🚀 Expanding Proficiency: Python-Powered ETL, Data Cleaning, and Analysis 📊
+- 💬 Unlock Insights with Me: Advanced Excel, Python, SQL, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
+- 👨‍💻 Portfolio link: [https://public.tableau.com/app/profile/simran.nagpurkar/vizzes](https://public.tableau.com/app/profile/simran.nagpurkar/vizzes)
+- 📫 How to reach me  **nagpurkar.s@northeastern.edu**
 
 🔗 Portfolio link: https://syonajosy.github.io/syona-portfolio/  
 📈 Tableau Portfolio link: https://public.tableau.com/app/profile/syona.jaimy/vizzes  
