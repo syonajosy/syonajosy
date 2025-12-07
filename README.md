@@ -7,14 +7,16 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syonajosy&label=Profile%20views&color=0e75b6&style=flat" alt="syonajosy" /> </p>
+- **Data Engineer with a strong foundation in Analytics & Data Science**
+- 🛠 **Data Engineering Stack:** PySpark, Apache Spark, Databricks, Airflow, dbt, Spark Structured Streaming, Hadoop ecosystem concepts  
+-🌱 Currently preparing for the **AWS Data Engineer Associate certificate** and building production expertise in **Snowflake** for scalable data platforms.  
+-👨🏽‍🎓 Graduate student with a Master’s degree in **Data Science**, combining analytical problem-solving with applied machine learning.  
+- 🚀 **Expanding Proficiency:** Python-powered ETL workflows, advanced data cleaning, feature engineering, statistical modeling, and cloud-based analytics.  
+- 📊 **Analytics & BI Stack:** Python, SQL, AWS cloud systems, Alteryx, EDA, and storytelling through visualizations (**Tableau, Power BI, Amazon QuickSight**).  
 
-- 🌱  Currently preparing for the **AWS Data Engineer Associate certificate**  and building expertise in **Snowflake** for scalable data solutions.
-- 👨🏽‍🎓 Graduate student with a Master's degree in **Data Science**, combining analytical problem-solving with applied machine learning.
-- 🚀 Expanding Proficiency: Python-powered ETL workflows, advanced data cleaning, statistical modeling, and cloud-based analytics 📊
-- 💬 Unlock Insights with Me: Python, SQL, AWS cloud systems, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
-- 👨‍💻 Portfolio link: [https://syonajosy.github.io/syona-portfolio/](https://syonajosy.github.io/syona-portfolio/)
-- 👨‍💻 Tableau Portfolio link: [https://public.tableau.com/app/profile/syona.jaimy/vizzes](https://public.tableau.com/app/profile/syona.jaimy/vizzes)
-- 📫 How to reach me  **syona.j@outlook.com**
+🔗 Portfolio link: https://syonajosy.github.io/syona-portfolio/  
+📈 Tableau Portfolio link: https://public.tableau.com/app/profile/syona.jaimy/vizzes  
+📫 How to reach me: **syonajaimy7@gmail.com**
 
 
 ## Featured Projects
@@ -22,6 +24,10 @@
 ### [InboxAI – Retrieval-Augmented Generation (RAG) Pipeline for Email Analytics](https://github.com/syonajosy/Mail-Inbox-AI)
 - Built a cloud-based pipeline for email ingestion, processing, and vector search with real-time analytics.
 - Deployed on GCP with PostgreSQL, Docker, and MLflow for scalable KPI tracking and insights.
+
+### [Stock Market Real-Time Analysis | AWS, Kafka, Python](https://github.com/syonajosy/realtime--stock-market--analysis)
+- Built an LSTM and decision tree–based forecasting system to predict agricultural demand/supply trends and generate data-driven policy recommendations.
+- Deployed a LangChain-powered pipeline enabling real-time insights for policymakers, supply chains, and financial institutions.
 
 ### [Policy Recommendation System – Agricultural Demand & Supply Forecasting](https://github.com/syonajosy/Policy_Recommendation)
 - Built an LSTM and decision tree–based forecasting system to predict agricultural demand/supply trends and generate data-driven policy recommendations.
